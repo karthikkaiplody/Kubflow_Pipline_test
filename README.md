@@ -1,2 +1,2 @@
 # Kubflow_Pipline_test
-Machine learning pipeline using Kubeflow
+Machine learning pipeline architecture using Kubeflow
